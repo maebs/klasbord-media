@@ -121,8 +121,6 @@ while true; do
               -Description="$currentEntryTitle" \
               -UserComment="$currentEntryTitle" \
               -ImageDescription="$currentEntryTitle" \
-              -Keywords="MF3" \
-              -Keywords="Montessori Beverwijk" \
               -Keywords="$systemYear" \
               -Keywords="$currentEntryTitle" \
               "$newName" >/dev/null
